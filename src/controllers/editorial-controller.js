@@ -1,4 +1,4 @@
-const db = require("../models/");
+const db = require("../models");
 
 async function createEditorial(req, res, next) {
     try {

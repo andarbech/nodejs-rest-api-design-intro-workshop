@@ -15,3 +15,4 @@ connect().then(async function onServerInit() {
         config.logger.info(`Server running at http://localhost:${config.app.PORT}`);
     });
 });
+
